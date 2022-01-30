@@ -33,7 +33,7 @@
         border: solid black 3px;
         clip-path: polygon(0 0, 100 0, 100% 0, 0 0);
     }
-    #manu-btn{
+    #menu-btn{
         font-size: 2.5rem;
         color: black;
         cursor: pointer;
@@ -59,7 +59,7 @@
         border: solid black 3px;
         clip-path: polygon(0 0, 100 0, 100% 0, 0 0);
     }
-    #manu-btn{
+    #menu-btn{
         font-size: 2.5rem;
         color: black;
         cursor: pointer;
