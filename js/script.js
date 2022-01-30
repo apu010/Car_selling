@@ -1,8 +1,8 @@
-let manu = document.querySelector('#manu-btn');
+let menu = document.querySelector('#manu-btn');
 let navber = document.querySelector('.navbar');
 
-manu.onclick = () => {
-manu.classList.toggle('fa-times');
+menu.onclick = () => {
+menu.classList.toggle('fa-times');
 navbar.classList.toggle('active');
 }
 
