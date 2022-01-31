@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap');
 
 :root{
     --red:red;
@@ -27,7 +27,7 @@ html{
     font-size: 62.5%;
     overflow: hidden;
     scroll-padding-top: 7rem ;
-    scroll-behavior: smooths;
+    scroll-behavior: smooth;
 }
 .btn{
     display: inline-block;
@@ -148,7 +148,7 @@ html{
     color: red;
     cursor: pointer;
 }
-.login-from-container .active{
+.login-from-container.active{
     top: 0;
     opacity: 1;
 }
